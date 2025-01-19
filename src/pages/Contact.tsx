@@ -127,7 +127,7 @@ const Contact = () => {
                     Email Us
                   </h3>
                   <p className="text-gray-600 dark:text-gray-300">
-                    info@dimetechnologies.com
+                    dimetech2@gmail.com
                   </p>
                 </div>
               </div>
@@ -141,7 +141,7 @@ const Contact = () => {
                     Call Us
                   </h3>
                   <p className="text-gray-600 dark:text-gray-300">
-                    +1 (555) 123-4567
+                    +263 775449580
                   </p>
                 </div>
               </div>
@@ -155,8 +155,8 @@ const Contact = () => {
                     Visit Us
                   </h3>
                   <p className="text-gray-600 dark:text-gray-300">
-                    123 Tech Street<br />
-                    Silicon Valley, CA 94025
+                   12 sundown Road<br />
+                   Belvedere, Harare ZW
                   </p>
                 </div>
               </div>
