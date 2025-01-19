@@ -82,10 +82,10 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">Contact Us</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>123 Tech Street</li>
-              <li>Silicon Valley, CA 94025</li>
-              <li>Phone: +1 (555) 123-4567</li>
-              <li>Email: info@dimetechnologies.com</li>
+              <li>13 Sundown Road</li>
+              <li>Belvedere, Harare ZW</li>
+              <li>Phone: +263775449580</li>
+              <li>Email: dimetech2@gmail.com</li>
             </ul>
           </div>
         </div>
